@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-<!--
-**milestorme/Milestorme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
+
+**acidmanifesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 - 📫 How to reach me:  [discord.gg](https://discord.gg/TpxqWWT)
 
-- 🌐 Website: [milestorme.org](https://mdicsdildoemporium.com)
+- 🌐 Website: [MdicsDildEemporium.com](https://mdicsdildoemporium.com)
 -->
 <a href="https://github.com/acidmanifesto">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=acidmanifesto&show_icons=true&theme=cobalt&include_all_commits=true" alt="acidmanifesto's github stats" />
