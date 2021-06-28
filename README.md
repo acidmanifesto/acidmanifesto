@@ -6,6 +6,7 @@
 - 📫 How to reach me:  [discord.gg](http://discord.gg/TpxqWWT)
 
 - 🌐 Website: [MdicsDildoEmporium.com](http://mdicsdildoemporium.com)
+- 🌐 Website: [AshamaneCore.com](http://AshamaneCore.com)
 
 <a href="http://github.com/acidmanifesto">
   <img align="center" src="http://github-readme-stats.vercel.app/api?username=acidmanifesto&show_icons=true&theme=cobalt&include_all_commits=true" alt="acidmanifesto's github stats" />
